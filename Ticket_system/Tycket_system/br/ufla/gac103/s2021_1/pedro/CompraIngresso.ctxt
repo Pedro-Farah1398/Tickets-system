@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=CompraIngresso
+comment0.text=\r\n\ Escreva\ uma\ descri\u00E7\u00E3o\ da\ classe\ CompraIngresso\ aqui.\r\n\ \r\n\ @author\ (seu\ nome)\ \r\n\ @version\ (um\ n\u00FAmero\ da\ vers\u00E3o\ ou\ uma\ data)\r\n
+comment1.params=
+comment1.target=CompraIngresso()
+comment2.params=list\ nome\ dataSessao\ nomeComprador\ numeroCadeira\ tipoIngresso\ qtdIngressos
+comment2.target=int\ comprarIngresso(java.util.List,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.util.ArrayList,\ java.lang.String,\ int)
+comment3.params=list
+comment3.target=void\ imprimirIngressos(java.util.List)
+numComments=4

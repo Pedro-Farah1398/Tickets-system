@@ -1,0 +1,5 @@
+Evento : Homem Aranha - Sem Volta para CasaData : 17/12/2021 | Cadeira : 1   | Nome : Pedro | Preço : 19.25
+Evento : Homem Aranha - Sem Volta para CasaData : 17/12/2021 | Cadeira : 2   | Nome : Pedro | Preço : 19.25
+Evento : Homem Aranha - Sem Volta para CasaData : 17/12/2021 | Cadeira : 3   | Nome : Pedro | Preço : 19.25
+Evento : São Paulo x PalmeirasData : 12/12/2021 | Cadeira : 1   | Nome : Pedro | Preço : 110.0
+Evento : São Paulo x PalmeirasData : 12/12/2021 | Cadeira : 2   | Nome : Pedro | Preço : 110.0

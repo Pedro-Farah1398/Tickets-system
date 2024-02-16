@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=InterfaceUsuario
+comment0.text=\r\n\ Escreva\ uma\ descri\u00E7\u00E3o\ da\ classe\ InterfaceUsuario\ aqui.\r\n\ \r\n\ @author\ (seu\ nome)\ \r\n\ @version\ (um\ n\u00FAmero\ da\ vers\u00E3o\ ou\ uma\ data)\r\n
+comment1.params=adm
+comment1.target=InterfaceUsuario(Administracao)
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+comment3.params=
+comment3.target=void\ menu()
+comment4.params=
+comment4.target=Administracao\ carregarConteudo()
+comment5.params=
+comment5.target=void\ salvarConteudo()
+comment6.params=opcao
+comment6.target=void\ tratarOpcao(int)
+comment7.params=
+comment7.target=void\ comprarIngresso()
+comment8.params=
+comment8.target=void\ subMenu()
+comment9.params=
+comment9.target=void\ imprimirIngressos()
+numComments=10

@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=InterfaceGeral
+comment0.text=\r\n\ Escreva\ uma\ descri\u00E7\u00E3o\ da\ classe\ InterfaceGeral\ aqui.\r\n\ \r\n\ @author\ (seu\ nome)\ \r\n\ @version\ (um\ n\u00FAmero\ da\ vers\u00E3o\ ou\ uma\ data)\r\n
+comment1.params=adm
+comment1.target=InterfaceGeral(Administracao)
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+comment2.text=\r\n\ Construtor\ para\ objetos\ da\ classe\ InterfaceGeral\r\n
+comment3.params=
+comment3.target=void\ listarSessoes()
+comment4.params=
+comment4.target=Administracao\ getAdm()
+comment5.params=
+comment5.target=Administracao\ carregarConteudo()
+comment6.params=
+comment6.target=void\ salvarConteudo()
+comment7.params=
+comment7.target=void\ listarEventos()
+comment8.params=adm
+comment8.target=void\ detalharEvento(Administracao)
+numComments=9

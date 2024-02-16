@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Relatorio
+comment0.text=\r\n\ Escreva\ uma\ descri\u00E7\u00E3o\ da\ classe\ Relatorio\ aqui.\r\n\ \r\n\ @author\ (seu\ nome)\ \r\n\ @version\ (um\ n\u00FAmero\ da\ vers\u00E3o\ ou\ uma\ data)\r\n
+comment1.params=
+comment1.target=Relatorio()
+comment1.text=\r\n\ Construtor\ para\ objetos\ da\ classe\ Relatorio\r\n
+comment2.params=listEventos
+comment2.target=java.lang.String\ getIngressosPorTipo(java.util.List)
+comment3.params=listEventos\ nome
+comment3.target=java.lang.String\ getIngressosPorEvento(java.util.List,\ java.lang.String)
+numComments=4

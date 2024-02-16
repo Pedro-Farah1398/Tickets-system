@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Administracao
+comment0.text=\r\n\ Escreva\ uma\ descri\u00E7\u00E3o\ da\ classe\ Administracao\ aqui.\r\n\ \r\n\ @author\ (seu\ nome)\ \r\n\ @version\ (um\ n\u00FAmero\ da\ vers\u00E3o\ ou\ uma\ data)\r\n
+comment1.params=
+comment1.target=Administracao()
+comment1.text=\r\n\ Construtor\ para\ objetos\ da\ classe\ Administracao\r\n
+comment10.params=nome
+comment10.target=java.lang.String\ getSessoes(java.lang.String)
+comment2.params=nome\ local\ valorBase\ tipo\ atores\ genero\ diretor
+comment2.target=void\ cadastrarFilme(java.lang.String,\ java.lang.String,\ int,\ java.lang.String,\ java.util.ArrayList,\ java.lang.String,\ java.lang.String)
+comment3.params=nome\ local\ valorBase\ tipo\ cantor\ nomeTurne
+comment3.target=void\ cadastrarShow(java.lang.String,\ java.lang.String,\ int,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment4.params=nome\ local\ valorBase\ tipo\ campeonato\ timeCasa
+comment4.target=void\ cadastrarPartida(java.lang.String,\ java.lang.String,\ int,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment5.params=
+comment5.target=java.util.List\ getListEventos()
+comment6.params=
+comment6.target=java.lang.String\ getEventos()
+comment7.params=nome
+comment7.target=java.lang.String\ getDetalhe(java.lang.String)
+comment8.params=nome\ data\ qtdPessoas\ qtdIngressos
+comment8.target=int\ cadastrarSessao(java.lang.String,\ java.lang.String,\ int,\ int)
+comment9.params=list
+comment9.target=void\ exibir(java.util.List)
+numComments=11
